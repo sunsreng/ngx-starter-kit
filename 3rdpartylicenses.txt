@@ -1,4 +1,4 @@
-@angular/material@6.3.0
+@angular/material@6.3.1
 MIT
 The MIT License
 
@@ -251,7 +251,7 @@ Apache License
  See the License for the specific language governing permissions and
  limitations under the License.
 
-@angular/cdk@6.3.0
+@angular/cdk@6.3.1
 MIT
 The MIT License
 
@@ -299,7 +299,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/material-moment-adapter@6.3.0
+@angular/material-moment-adapter@6.3.1
 MIT
 The MIT License
 
@@ -668,7 +668,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/platform-browser@6.1.0-beta.2
+@angular/platform-browser@6.1.0-beta.3
 MIT
 MIT
 
@@ -730,7 +730,7 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 END OF TERMS AND CONDITIONS
 
-@angular/common@6.1.0-beta.2
+@angular/common@6.1.0-beta.3
 MIT
 MIT
 
@@ -762,11 +762,11 @@ SOFTWARE.
 MIT
 MIT
 
-@angular/router@6.1.0-beta.2
+@angular/router@6.1.0-beta.3
 MIT
 MIT
 
-@angular/animations@6.1.0-beta.2
+@angular/animations@6.1.0-beta.3
 MIT
 MIT
 
@@ -794,11 +794,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/forms@6.1.0-beta.2
+@angular/forms@6.1.0-beta.3
 MIT
 MIT
 
-@angular/core@6.1.0-beta.2
+@angular/core@6.1.0-beta.3
 MIT
 MIT
 
@@ -1098,7 +1098,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/service-worker@6.1.0-beta.2
+@angular/service-worker@6.1.0-beta.3
 MIT
 MIT
 
