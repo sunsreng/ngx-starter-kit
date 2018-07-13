@@ -126,16 +126,16 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/ngx-starter-kit/1.js": "1973995392191fee5ebd69a41ecdd48ed095eb06",
-    "/ngx-starter-kit/10.js": "9b8935e43f95182c5b5624be9bc237235947ed4b",
-    "/ngx-starter-kit/11.js": "10916504fcd5bae135bd006c4018359ba3b203e6",
+    "/ngx-starter-kit/1.js": "a8ad0292da9430ecaab15bee53cda7fe236feca2",
+    "/ngx-starter-kit/10.js": "4d2a677a27c0ca59ad0a4892a99f05eab54f039e",
+    "/ngx-starter-kit/11.js": "044954a697dc1be0dbed16913d702c66aa2a3ce7",
     "/ngx-starter-kit/2.js": "f165ca356544dc7319af66ee016dee9c185f4c10",
     "/ngx-starter-kit/3.js": "7421e069992f4557297396a05d199860efe2ced0",
     "/ngx-starter-kit/4.js": "a87271091628cb0bd21e7f05635efd07a8594a98",
     "/ngx-starter-kit/5.js": "fd7bb54186b3bda3674c6b55d1d2285480046910",
-    "/ngx-starter-kit/6.js": "1b7d0820e73a2230c122fdeea7c46ed0a312e640",
-    "/ngx-starter-kit/7.js": "a4bbd12b400c26c2f578f4a3516505c9179aedaf",
-    "/ngx-starter-kit/8.js": "2e2eae8703ae17f5ac8110b37b651f27c9004fa1",
+    "/ngx-starter-kit/6.js": "c4b5496d7cc0caf7a9e24d8713c90e9fa111af57",
+    "/ngx-starter-kit/7.js": "274e2d6af08fc2628d38a1caecc8cb247f2afb5b",
+    "/ngx-starter-kit/8.js": "51de35e6e3e5e0bb01ce9583998851fb6162df95",
     "/ngx-starter-kit/9.js": "ee676b8dfd0d6ed68e1613d6a286279f13405740",
     "/ngx-starter-kit/assets/data/accounts.json": "c2e89b716078d190da318ae1f1298e515dd25d74",
     "/ngx-starter-kit/assets/data/accounts2.json": "1d1e9b9e267e857bf0ca86464ff89ee8e2733a98",
@@ -210,17 +210,17 @@
     "/ngx-starter-kit/assets/img/logo_text_dark1.png": "0262ed76fbe8120706a67c2e59bd343799a48a3e",
     "/ngx-starter-kit/assets/img/logo_text_dark2.png": "d2cf247eeedc6b59a3dfbb020dd5cfdc79bba829",
     "/ngx-starter-kit/assets/img/logo_text_dark3.png": "37eb2fadb37bb14b1adaa14dd04b10dcfc387bd6",
-    "/ngx-starter-kit/assets/themes/deeppurple-amber.css": "67a83450692585779f21b76342c484abe745c012",
-    "/ngx-starter-kit/assets/themes/indigo-pink.css": "44cd3b63ba5f285ac96471564d95ec8f11a2a3d7",
-    "/ngx-starter-kit/assets/themes/pink-bluegrey.css": "2b7c74975c4659c2aff2b325539390211e03fb7f",
-    "/ngx-starter-kit/assets/themes/purple-green.css": "f7928c017b1b6168b5fcfffe3efb562f8fa9ea71",
+    "/ngx-starter-kit/assets/themes/deeppurple-amber.css": "4c0f6ee5a06e22cdee1f8913cddaecccac0864cf",
+    "/ngx-starter-kit/assets/themes/indigo-pink.css": "713fd354412cc955dcc7743f2e6b2457817f2214",
+    "/ngx-starter-kit/assets/themes/pink-bluegrey.css": "1ad93a1eae780bf958c6afd5c08449d0c3591428",
+    "/ngx-starter-kit/assets/themes/purple-green.css": "d6a6ecc52089df3d9fcb6ab45320ff02f55e6603",
     "/ngx-starter-kit/common.js": "d827140c4cf2b72a4714c25a9a937257e916d64c",
     "/ngx-starter-kit/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/ngx-starter-kit/index.html": "8a96107c841c112c6af3544d8a0f6923ea1a5b01",
-    "/ngx-starter-kit/main.js": "b3413c50d50797254b3fa3a57f6a083f5196d7cb",
+    "/ngx-starter-kit/main.js": "165b9ce510786a202e3337dd59b8ff4dc2d457f3",
     "/ngx-starter-kit/polyfills.js": "8384154060895c0d45ce448b6f5b4ac06ba69b7b",
     "/ngx-starter-kit/runtime.js": "6228e263d2857c8042f65231e93220f648c62491",
-    "/ngx-starter-kit/styles.css": "61af141587d9b52297bff790ca5bb175d93995f7"
+    "/ngx-starter-kit/styles.css": "519cf619632444df8f5966bc9b47a9e847d32969"
   },
   "navigationUrls": [
     {
@@ -229,15 +229,15 @@
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
     }
   ]
 }
