@@ -130,8 +130,8 @@
   "dataGroups": [],
   "hashTable": {
     "/ngx-starter-kit/1.js": "8422f9f48ec4be43fe4cb872cb5f68fded81048f",
-    "/ngx-starter-kit/10.js": "16162555664254254a837e4adfb55551a297606a",
-    "/ngx-starter-kit/11.js": "9f958a15f53df1a6a318dad20087f72341d7174f",
+    "/ngx-starter-kit/10.js": "6ff55db8f46fa0ebec377344bda3bc645c2f61a2",
+    "/ngx-starter-kit/11.js": "c941d2159e16ab60795aec4a5d7867d58b2a7b1d",
     "/ngx-starter-kit/2.js": "fc4d25bbe94ed30d66f3b80eeb936cd80e02f6b2",
     "/ngx-starter-kit/3.js": "24b96f59eefed0fda69f934e41a0ebbb8c4c1927",
     "/ngx-starter-kit/4.js": "a87271091628cb0bd21e7f05635efd07a8594a98",
@@ -223,7 +223,7 @@
     "/ngx-starter-kit/common.js": "782f95ae307fa63b682a90d2b1f21567cadee2f0",
     "/ngx-starter-kit/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/ngx-starter-kit/index.html": "8a96107c841c112c6af3544d8a0f6923ea1a5b01",
-    "/ngx-starter-kit/main.js": "603d8273b3a8e041d1a054439f467769b5887c10",
+    "/ngx-starter-kit/main.js": "c78eb76cbba2f81f8bab1660b39ad82c02148ddb",
     "/ngx-starter-kit/polyfills.js": "8384154060895c0d45ce448b6f5b4ac06ba69b7b",
     "/ngx-starter-kit/runtime.js": "6228e263d2857c8042f65231e93220f648c62491",
     "/ngx-starter-kit/styles.css": "2127c0bdb3228acd31c6787ed66762bf102e12c5"

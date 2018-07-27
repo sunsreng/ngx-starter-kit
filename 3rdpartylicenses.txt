@@ -275,7 +275,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-ngx-perfect-scrollbar@6.2.0
+ngx-perfect-scrollbar@6.2.1
 MIT
 The MIT License
 
@@ -692,7 +692,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/platform-browser@6.1.0-rc.3
+@angular/platform-browser@6.1.0
 MIT
 MIT
 
@@ -754,7 +754,7 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 
 END OF TERMS AND CONDITIONS
 
-@angular/common@6.1.0-rc.3
+@angular/common@6.1.0
 MIT
 MIT
 
@@ -786,11 +786,11 @@ SOFTWARE.
 MIT
 MIT
 
-@angular/router@6.1.0-rc.3
+@angular/router@6.1.0
 MIT
 MIT
 
-@angular/animations@6.1.0-rc.3
+@angular/animations@6.1.0
 MIT
 MIT
 
@@ -818,11 +818,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/forms@6.1.0-rc.3
+@angular/forms@6.1.0
 MIT
 MIT
 
-@angular/core@6.1.0-rc.3
+@angular/core@6.1.0
 MIT
 MIT
 
@@ -1122,7 +1122,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/service-worker@6.1.0-rc.3
+@angular/service-worker@6.1.0
 MIT
 MIT
 
