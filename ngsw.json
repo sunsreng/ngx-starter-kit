@@ -130,7 +130,7 @@
   "dataGroups": [],
   "hashTable": {
     "/ngx-starter-kit/1.js": "e7cfb9c559cc48f7e894800e4a6682d687db19ba",
-    "/ngx-starter-kit/10.js": "4fbfc83276f97525019b360d497e1f2c72009f63",
+    "/ngx-starter-kit/10.js": "8131afddf067c8288fb9516b10d0372ebfde0302",
     "/ngx-starter-kit/11.js": "b042fab80dfe5e6708598e321720106810740264",
     "/ngx-starter-kit/2.js": "fc4d25bbe94ed30d66f3b80eeb936cd80e02f6b2",
     "/ngx-starter-kit/3.js": "9a63bda59359b44124ebe7693959f0e50be8f3bb",
@@ -216,17 +216,17 @@
     "/ngx-starter-kit/assets/img/logo_text_dark1.png": "0262ed76fbe8120706a67c2e59bd343799a48a3e",
     "/ngx-starter-kit/assets/img/logo_text_dark2.png": "d2cf247eeedc6b59a3dfbb020dd5cfdc79bba829",
     "/ngx-starter-kit/assets/img/logo_text_dark3.png": "37eb2fadb37bb14b1adaa14dd04b10dcfc387bd6",
-    "/ngx-starter-kit/assets/themes/deeppurple-amber.css": "438245e1e4ccf107d064fd170cd3ea42ca111f70",
-    "/ngx-starter-kit/assets/themes/indigo-pink.css": "dea80df3acb04384c2c8101515cbdca7e5aa5397",
-    "/ngx-starter-kit/assets/themes/pink-bluegrey.css": "9017ec474d8d201bfc92b23487ea323df6e025b9",
-    "/ngx-starter-kit/assets/themes/purple-green.css": "0ae0e84ffa068d935841061a9d7b0733500d0d18",
+    "/ngx-starter-kit/assets/themes/deeppurple-amber.css": "ac5f3a4d96ab5f5fe703a6558311c04ea68acfed",
+    "/ngx-starter-kit/assets/themes/indigo-pink.css": "7f0797dc497c40d1098e3952df17319939253cfa",
+    "/ngx-starter-kit/assets/themes/pink-bluegrey.css": "f877e483c115444ce23b9eafb57b8fdbff456605",
+    "/ngx-starter-kit/assets/themes/purple-green.css": "63354b17b25ac26e9c1cb2d743119227551fe786",
     "/ngx-starter-kit/common.js": "782f95ae307fa63b682a90d2b1f21567cadee2f0",
     "/ngx-starter-kit/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/ngx-starter-kit/index.html": "8a96107c841c112c6af3544d8a0f6923ea1a5b01",
-    "/ngx-starter-kit/main.js": "4d006ead7a3e829360378e30c4fb842840f6654c",
+    "/ngx-starter-kit/main.js": "c182028b79e379484599a3c79d76dba3a5708fc9",
     "/ngx-starter-kit/polyfills.js": "8384154060895c0d45ce448b6f5b4ac06ba69b7b",
     "/ngx-starter-kit/runtime.js": "6228e263d2857c8042f65231e93220f648c62491",
-    "/ngx-starter-kit/styles.css": "bd4bfc08718a7088888a62e6c97df0723f9bed86"
+    "/ngx-starter-kit/styles.css": "3afd47c835d4f030b70315e9e6718323b671e8d9"
   },
   "navigationUrls": [
     {
