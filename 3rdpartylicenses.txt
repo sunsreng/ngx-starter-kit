@@ -762,11 +762,19 @@ SOFTWARE.
 MIT
 MIT
 
+@ngxs/form-plugin@3.2.0
+MIT
+MIT
+
 @angular/router@6.1.4
 MIT
 MIT
 
 @angular/animations@6.1.4
+MIT
+MIT
+
+@angular/forms@6.1.4
 MIT
 MIT
 
@@ -793,10 +801,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
-@angular/forms@6.1.4
-MIT
-MIT
 
 @angular/core@6.1.4
 MIT
@@ -1155,10 +1159,10 @@ THE SOFTWARE.
 MIT
 MIT
 
-angular-oauth2-oidc@4.0.2
+@ngxs/store@3.2.0
 MIT
 MIT
 
-@ngxs/store@3.2.0
+angular-oauth2-oidc@4.0.2
 MIT
 MIT
