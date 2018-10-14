@@ -1,13 +1,13 @@
 ngx-starter-kit
 MIT
 
-scroll-to-top
-
 breadcrumbs
 
 theme-picker
 
 scrollbar
+
+scroll-to-top
 
 notifications
 
