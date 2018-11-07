@@ -27,9 +27,8 @@
         "/ngx-starter-kit/styles.4fbb44b21df87f267972.css"
       ],
       "patterns": [
-        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons",
-        "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=Roboto:300,400,500|Roboto\\+Mono:300|Dancing\\+Script:700",
-        "https:\\/\\/fonts\\.gstatic\\.com\\/s\\/roboto\\/v18\\/KFOmCnqEu92Fr1Mu4mxKKTU1Kg\\.woff2",
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
+        "https:\\/\\/fonts\\.gstatic\\.com\\/.*",
         "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/trianglify\\/1\\.2\\.0\\/trianglify\\.min\\.js",
         "https:\\/\\/www\\.google-analytics\\.com\\/analytics\\.js",
         "https:\\/\\/myroute-is360\\.a3c1\\.starter-us-west-1\\.openshiftapps\\.com\\/auth\\/realms\\/is360\\/\\.well-known\\/openid-configuration",
@@ -131,7 +130,19 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "jokes-api",
+      "patterns": [
+        "https:\\/\\/api\\.chucknorris\\.io\\/jokes\\/random"
+      ],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 86400000,
+      "timeoutMs": 10000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/ngx-starter-kit/1.54fbee356799288d5e8e.js": "bd8e1f9f8ba6d56866454de6628b5a91b0591bf3",
     "/ngx-starter-kit/14.f9c015c6a6815e40e4c0.js": "e47e713aca6c0693b4cc3a6f37ffeae380c7178d",
