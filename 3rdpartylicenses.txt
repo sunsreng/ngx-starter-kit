@@ -11,13 +11,13 @@ scrollbar
 
 notifications
 
-led
-
 chat-box
 
-image-comparison
+led
 
 context-menu
+
+image-comparison
 
 loading-overlay
 
