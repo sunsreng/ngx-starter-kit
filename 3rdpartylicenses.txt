@@ -9,11 +9,11 @@ theme-picker
 
 scrollbar
 
-led
-
 notifications
 
 chat-box
+
+led
 
 context-menu
 
