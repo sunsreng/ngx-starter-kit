@@ -9,7 +9,7 @@
       "urls": [
         "/ngx-starter-kit/1.54fbee356799288d5e8e.js",
         "/ngx-starter-kit/14.f9c015c6a6815e40e4c0.js",
-        "/ngx-starter-kit/15.70ef0903dc0dee6c786e.js",
+        "/ngx-starter-kit/15.791defb8cbe63292ffd1.js",
         "/ngx-starter-kit/16.e338c4db9e53e6d0ce79.js",
         "/ngx-starter-kit/17.e02d722eb1340f2e9b0d.js",
         "/ngx-starter-kit/18.1983063833ee4379e6e7.js",
@@ -21,12 +21,19 @@
         "/ngx-starter-kit/common.a213a385d8016751ecb9.js",
         "/ngx-starter-kit/favicon.ico",
         "/ngx-starter-kit/index.html",
-        "/ngx-starter-kit/main.8668101df44d43fac6d0.js",
+        "/ngx-starter-kit/main.83545aa3a309dacfbb4b.js",
         "/ngx-starter-kit/polyfills.5ee026fa1ce81b81f903.js",
-        "/ngx-starter-kit/runtime.b4bffe040c55ab513acf.js",
+        "/ngx-starter-kit/runtime.6cee871e7d502d56c24c.js",
         "/ngx-starter-kit/styles.4fbb44b21df87f267972.css"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons",
+        "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=Roboto:300,400,500|Roboto\\+Mono:300|Dancing\\+Script:700",
+        "https:\\/\\/fonts\\.gstatic\\.com\\/s\\/roboto\\/v18\\/KFOmCnqEu92Fr1Mu4mxKKTU1Kg\\.woff2",
+        "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/trianglify\\/1\\.2\\.0\\/trianglify\\.min\\.js",
+        "https:\\/\\/www\\.google-analytics\\.com\\/analytics\\.js",
+        "https:\\/\\/myroute-is360\\.a3c1\\.starter-us-west-1\\.openshiftapps\\.com\\/auth\\/realms\\/is360\\/\\.well-known\\/openid-configuration"
+      ]
     },
     {
       "name": "assets",
@@ -121,23 +128,13 @@
         "/ngx-starter-kit/assets/themes/purple-green.css"
       ],
       "patterns": []
-    },
-    {
-      "name": "static-assets",
-      "installMode": "lazy",
-      "updateMode": "prefetch",
-      "urls": [],
-      "patterns": [
-        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons",
-        "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=Roboto:300,400,500|Roboto\\+Mono:300|Dancing\\+Script:700"
-      ]
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "/ngx-starter-kit/1.54fbee356799288d5e8e.js": "bd8e1f9f8ba6d56866454de6628b5a91b0591bf3",
     "/ngx-starter-kit/14.f9c015c6a6815e40e4c0.js": "e47e713aca6c0693b4cc3a6f37ffeae380c7178d",
-    "/ngx-starter-kit/15.70ef0903dc0dee6c786e.js": "521ab9e43c1fd4a7d8a148c1cd9d7c8a16ca5684",
+    "/ngx-starter-kit/15.791defb8cbe63292ffd1.js": "48db4975af497679868f905133ac0a4515638e56",
     "/ngx-starter-kit/16.e338c4db9e53e6d0ce79.js": "b3dc7ab47ab389ad8721ecf89d33d2b00723fef6",
     "/ngx-starter-kit/17.e02d722eb1340f2e9b0d.js": "605ba4680b88e971186d2df34e3c99bd92deb37b",
     "/ngx-starter-kit/18.1983063833ee4379e6e7.js": "96e071d487acb948180d50906fda3b0f3b181945",
@@ -234,10 +231,10 @@
     "/ngx-starter-kit/assets/themes/purple-green.css": "68254b1507f8def752ab3797e6ced653203a03a5",
     "/ngx-starter-kit/common.a213a385d8016751ecb9.js": "32b846e42e205fe931a260f0664066790d6eef79",
     "/ngx-starter-kit/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/ngx-starter-kit/index.html": "479febe0fd2cc1c22dec205584c5eabac4bcbfec",
-    "/ngx-starter-kit/main.8668101df44d43fac6d0.js": "c42c2be56e9dd80dd028c0cac4ea3548e22f29b3",
+    "/ngx-starter-kit/index.html": "3613eb46ffe3329a21b0feeaae222336effb9063",
+    "/ngx-starter-kit/main.83545aa3a309dacfbb4b.js": "c8c2e99e50b98a41d7834b5c45f50c2a83279ef7",
     "/ngx-starter-kit/polyfills.5ee026fa1ce81b81f903.js": "64a4ec9943e27627a109b59bbb553db7c2d294f9",
-    "/ngx-starter-kit/runtime.b4bffe040c55ab513acf.js": "95393edeb96ec09c608da2f85418b0c0b9a0ed6b",
+    "/ngx-starter-kit/runtime.6cee871e7d502d56c24c.js": "02cfb50de9872631ff94ab7541121f77fb3c75cf",
     "/ngx-starter-kit/styles.4fbb44b21df87f267972.css": "a3f5e14ad1d73bdcc618790fe6c3bc370894dba5"
   },
   "navigationUrls": [
