@@ -11,9 +11,9 @@ scrollbar
 
 notifications
 
-chat-box
-
 led
+
+chat-box
 
 context-menu
 
@@ -462,8 +462,6 @@ MIT
 
 @ngx-formly/material/textarea
 
-@angular/material/snack-bar
-
 @angular/material/menu
 
 @angular/material/sort
@@ -687,6 +685,9 @@ to represent the company, product, or service to which they refer.**
 
 
 @ngxs/router-plugin
+MIT
+
+@angular/animations
 MIT
 
 @angular/flex-layout
@@ -923,9 +924,6 @@ jsrsasign
 MIT
 
 @angular/forms
-MIT
-
-@angular/animations
 MIT
 
 @angular/material/icon
@@ -1359,6 +1357,8 @@ MIT
 @angular/router
 MIT
 
+@angular/material/snack-bar
+
 @angular/material/dialog
 
 @angular/material/tooltip
@@ -1397,6 +1397,9 @@ MIT
 tree
 
 @angular/service-worker
+MIT
+
+angular-oauth2-oidc
 MIT
 
 @ngxs/store
@@ -1439,9 +1442,6 @@ trademarks does not indicate endorsement of the trademark holder by Font
 Awesome, nor vice versa. **Please do not use brand logos for any purpose except
 to represent the company, product, or service to which they refer.**
 
-
-angular-oauth2-oidc
-MIT
 
 core-js
 MIT

@@ -7,32 +7,29 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/ngx-starter-kit/1.54fbee356799288d5e8e.js",
-        "/ngx-starter-kit/14.665d7293807e1cedddcd.js",
-        "/ngx-starter-kit/15.9a1dc5575abcabe68006.js",
-        "/ngx-starter-kit/16.e338c4db9e53e6d0ce79.js",
-        "/ngx-starter-kit/17.e02d722eb1340f2e9b0d.js",
-        "/ngx-starter-kit/18.1983063833ee4379e6e7.js",
-        "/ngx-starter-kit/19.28b1b4d02f07f42517f4.js",
-        "/ngx-starter-kit/3.4ee79bdeb4a128bcf317.js",
-        "/ngx-starter-kit/4.feed357485645bf395bd.js",
-        "/ngx-starter-kit/5.46700b2949462bf893f7.js",
+        "/ngx-starter-kit/1.34c9e15458b0cdcbfe92.js",
+        "/ngx-starter-kit/14.ae46a60747dedb2483cf.js",
+        "/ngx-starter-kit/15.03f928b5f5942c915c7b.js",
+        "/ngx-starter-kit/16.c45e0dca7be9c1b957b4.js",
+        "/ngx-starter-kit/17.969212377fe3d5c36a5f.js",
+        "/ngx-starter-kit/18.594144c29509269df0ec.js",
+        "/ngx-starter-kit/19.8de3587fef7cbbbccd98.js",
+        "/ngx-starter-kit/3.2e16165383fa0f120685.js",
+        "/ngx-starter-kit/4.6618bda21f420a75aa8c.js",
+        "/ngx-starter-kit/5.baec31ae8a5f1da5c1ea.js",
         "/ngx-starter-kit/6.e5ad98a24bbb2704f868.js",
-        "/ngx-starter-kit/common.67a91d841bae2ddcee19.js",
+        "/ngx-starter-kit/common.fa230918b6deb04c6cda.js",
         "/ngx-starter-kit/favicon.ico",
         "/ngx-starter-kit/index.html",
-        "/ngx-starter-kit/main.967c98ca516baccccc95.js",
+        "/ngx-starter-kit/main.b4778b78c7e59c799c3a.js",
         "/ngx-starter-kit/polyfills.5ee026fa1ce81b81f903.js",
-        "/ngx-starter-kit/runtime.d7cd94345fe3c5e34de9.js",
+        "/ngx-starter-kit/runtime.fb20cccaf6a1983b38e4.js",
+        "/ngx-starter-kit/silent-refresh.html",
         "/ngx-starter-kit/styles.4fbb44b21df87f267972.css"
       ],
       "patterns": [
-        "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
-        "https:\\/\\/fonts\\.gstatic\\.com\\/.*",
         "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/trianglify\\/1\\.2\\.0\\/trianglify\\.min\\.js",
-        "https:\\/\\/www\\.google-analytics\\.com\\/analytics\\.js",
-        "https:\\/\\/myroute-is360\\.a3c1\\.starter-us-west-1\\.openshiftapps\\.com\\/auth\\/realms\\/is360\\/\\.well-known\\/openid-configuration",
-        "https:\\/\\/myroute-is360\\.a3c1\\.starter-us-west-1\\.openshiftapps\\.com\\/auth\\/realms\\/is360\\/protocol\\/openid-connect\\/certs"
+        "https:\\/\\/www\\.google-analytics\\.com\\/analytics\\.js"
       ]
     },
     {
@@ -127,33 +124,57 @@
         "/ngx-starter-kit/assets/themes/pink-bluegrey.css",
         "/ngx-starter-kit/assets/themes/purple-green.css"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
+        "https:\\/\\/fonts\\.gstatic\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [
     {
-      "name": "jokes-api",
+      "name": "my-api",
       "patterns": [
-        "https:\\/\\/api\\.chucknorris\\.io\\/jokes\\/random"
+        "http:\\/\\/localhost:3000\\/api\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 43200000,
+      "timeoutMs": 2000,
+      "version": 1
+    },
+    {
+      "name": "random-user",
+      "patterns": [
+        "https:\\/\\/randomuser\\.me\\/api\\/[^/]*"
       ],
       "strategy": "freshness",
       "maxSize": 100,
       "maxAge": 86400000,
-      "timeoutMs": 10000,
+      "timeoutMs": 5000,
+      "version": 1
+    },
+    {
+      "name": "keycloak",
+      "patterns": [
+        "https:\\/\\/myroute-is360\\.a3c1\\.starter-us-west-1\\.openshiftapps\\.com\\/auth\\/realms\\/is360\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 7776000000,
       "version": 1
     }
   ],
   "hashTable": {
-    "/ngx-starter-kit/1.54fbee356799288d5e8e.js": "bd8e1f9f8ba6d56866454de6628b5a91b0591bf3",
-    "/ngx-starter-kit/14.665d7293807e1cedddcd.js": "a4c3e847dc63c22df4f6f715e6ec2bd7a232ee87",
-    "/ngx-starter-kit/15.9a1dc5575abcabe68006.js": "60ee5cb7ee959a8bcceb5d18d2f7538905d01385",
-    "/ngx-starter-kit/16.e338c4db9e53e6d0ce79.js": "b3dc7ab47ab389ad8721ecf89d33d2b00723fef6",
-    "/ngx-starter-kit/17.e02d722eb1340f2e9b0d.js": "605ba4680b88e971186d2df34e3c99bd92deb37b",
-    "/ngx-starter-kit/18.1983063833ee4379e6e7.js": "96e071d487acb948180d50906fda3b0f3b181945",
-    "/ngx-starter-kit/19.28b1b4d02f07f42517f4.js": "f72d66c79fe849f71c5efac0ec4b1224a86bf21c",
-    "/ngx-starter-kit/3.4ee79bdeb4a128bcf317.js": "98fbee0c805c5622c0f235a56c62ca0df916d69e",
-    "/ngx-starter-kit/4.feed357485645bf395bd.js": "f49d6a4defee373a9db4681f29cb4a756cc7e460",
-    "/ngx-starter-kit/5.46700b2949462bf893f7.js": "435600621dbfc1fdaf4d383c91df3900af820ec2",
+    "/ngx-starter-kit/1.34c9e15458b0cdcbfe92.js": "f6a233f0e46b40187258cdd4cc6232afe785d07d",
+    "/ngx-starter-kit/14.ae46a60747dedb2483cf.js": "cddd37d9160f0e6ddc4ce7565a65f2d87fc50397",
+    "/ngx-starter-kit/15.03f928b5f5942c915c7b.js": "682357a86950284d32cddf86411719caeb82d192",
+    "/ngx-starter-kit/16.c45e0dca7be9c1b957b4.js": "b3dc7ab47ab389ad8721ecf89d33d2b00723fef6",
+    "/ngx-starter-kit/17.969212377fe3d5c36a5f.js": "370a8f1725cb7551a1cc9539b7f64e0261d55809",
+    "/ngx-starter-kit/18.594144c29509269df0ec.js": "b48949876b4376e4af5c14aed8f6ca74691164c5",
+    "/ngx-starter-kit/19.8de3587fef7cbbbccd98.js": "47fbf84e1c5584c18316344fe3e914dc287d9383",
+    "/ngx-starter-kit/3.2e16165383fa0f120685.js": "7bb0f0993e93c263252af98e7b86360147b84f81",
+    "/ngx-starter-kit/4.6618bda21f420a75aa8c.js": "f49d6a4defee373a9db4681f29cb4a756cc7e460",
+    "/ngx-starter-kit/5.baec31ae8a5f1da5c1ea.js": "e775f5fa300a50ab8f023bdd25ea8e2c11e6b203",
     "/ngx-starter-kit/6.e5ad98a24bbb2704f868.js": "2278d3e593773b8844fba54b6b31498b52c192b5",
     "/ngx-starter-kit/assets/data/accounts.json": "c2e89b716078d190da318ae1f1298e515dd25d74",
     "/ngx-starter-kit/assets/data/accounts2.json": "1d1e9b9e267e857bf0ca86464ff89ee8e2733a98",
@@ -241,12 +262,13 @@
     "/ngx-starter-kit/assets/themes/indigo-pink.css": "f5fca0c58619d623496030ac50eeb3c9a7ccf1f7",
     "/ngx-starter-kit/assets/themes/pink-bluegrey.css": "50a81ea2d5e799cb5ced22cb8f28918efc49038c",
     "/ngx-starter-kit/assets/themes/purple-green.css": "68254b1507f8def752ab3797e6ced653203a03a5",
-    "/ngx-starter-kit/common.67a91d841bae2ddcee19.js": "ca5dd0a113e90735dcbafba2790ab1e90416bcf2",
+    "/ngx-starter-kit/common.fa230918b6deb04c6cda.js": "ca5dd0a113e90735dcbafba2790ab1e90416bcf2",
     "/ngx-starter-kit/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/ngx-starter-kit/index.html": "2ea619f7948a8f19fdc5e6b63592773534be1337",
-    "/ngx-starter-kit/main.967c98ca516baccccc95.js": "d8478e6d40af66b5942643548cbc1a4365c0d16d",
+    "/ngx-starter-kit/index.html": "5b2d5b3b2c08e6b9e946865b33672c26a14f1344",
+    "/ngx-starter-kit/main.b4778b78c7e59c799c3a.js": "cf24b1970aa21836e74c2b66fefe1caabb051616",
     "/ngx-starter-kit/polyfills.5ee026fa1ce81b81f903.js": "64a4ec9943e27627a109b59bbb553db7c2d294f9",
-    "/ngx-starter-kit/runtime.d7cd94345fe3c5e34de9.js": "e53943ef8904ceec97f87236aacdf1f15d66c78a",
+    "/ngx-starter-kit/runtime.fb20cccaf6a1983b38e4.js": "ce2e8ab5f7736fda3527310db743d3a72c90bc3f",
+    "/ngx-starter-kit/silent-refresh.html": "a0038c9b93baa40eaebc00486d3ee4b044a1639d",
     "/ngx-starter-kit/styles.4fbb44b21df87f267972.css": "a3f5e14ad1d73bdcc618790fe6c3bc370894dba5"
   },
   "navigationUrls": [
