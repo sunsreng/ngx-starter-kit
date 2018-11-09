@@ -21,7 +21,7 @@
         "/ngx-starter-kit/common.fa230918b6deb04c6cda.js",
         "/ngx-starter-kit/favicon.ico",
         "/ngx-starter-kit/index.html",
-        "/ngx-starter-kit/main.b4778b78c7e59c799c3a.js",
+        "/ngx-starter-kit/main.ccde8c56bc68d589b218.js",
         "/ngx-starter-kit/polyfills.5ee026fa1ce81b81f903.js",
         "/ngx-starter-kit/runtime.b4446759fbd919133218.js",
         "/ngx-starter-kit/silent-refresh.html",
@@ -155,16 +155,18 @@
     {
       "name": "keycloak",
       "patterns": [
-        "https:\\/\\/myroute-is360\\.a3c1\\.starter-us-west-1\\.openshiftapps\\.com\\/auth\\/realms\\/is360\\/.*"
+        "https:\\/\\/myroute-is360\\.a3c1\\.starter-us-west-1\\.openshiftapps\\.com\\/auth\\/realms\\/is360\\/\\.well-known\\/openid-configuration",
+        "https:\\/\\/myroute-is360\\.a3c1\\.starter-us-west-1\\.openshiftapps\\.com\\/auth\\/realms\\/is360\\/protocol\\/openid-connect\\/certs",
+        "https:\\/\\/myroute-is360\\.a3c1\\.starter-us-west-1\\.openshiftapps\\.com\\/auth\\/realms\\/is360\\/protocol\\/openid-connect\\/login-status-iframe\\.html"
       ],
       "strategy": "performance",
       "maxSize": 100,
-      "maxAge": 7776000000,
+      "maxAge": 2592000000,
       "version": 1
     }
   ],
   "hashTable": {
-    "/ngx-starter-kit/1.34c9e15458b0cdcbfe92.js": "f6a233f0e46b40187258cdd4cc6232afe785d07d",
+    "/ngx-starter-kit/1.34c9e15458b0cdcbfe92.js": "020dffa125e3663bac6e9d9b5e1c957de147a134",
     "/ngx-starter-kit/14.ae46a60747dedb2483cf.js": "cddd37d9160f0e6ddc4ce7565a65f2d87fc50397",
     "/ngx-starter-kit/15.08dc202ef9f0c889d5f7.js": "24815b640ab834bec950f0abf311f9139000cab6",
     "/ngx-starter-kit/16.c45e0dca7be9c1b957b4.js": "b3dc7ab47ab389ad8721ecf89d33d2b00723fef6",
@@ -263,8 +265,8 @@
     "/ngx-starter-kit/assets/themes/purple-green.css": "68254b1507f8def752ab3797e6ced653203a03a5",
     "/ngx-starter-kit/common.fa230918b6deb04c6cda.js": "ca5dd0a113e90735dcbafba2790ab1e90416bcf2",
     "/ngx-starter-kit/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/ngx-starter-kit/index.html": "d41cca9a825a5de1d68d155ff47825854cb7e709",
-    "/ngx-starter-kit/main.b4778b78c7e59c799c3a.js": "cf24b1970aa21836e74c2b66fefe1caabb051616",
+    "/ngx-starter-kit/index.html": "bfa93712c9e25627f2f651cfeaad4a05fdfa1814",
+    "/ngx-starter-kit/main.ccde8c56bc68d589b218.js": "74da507d70acb3280468708a607673fc2a19cc84",
     "/ngx-starter-kit/polyfills.5ee026fa1ce81b81f903.js": "64a4ec9943e27627a109b59bbb553db7c2d294f9",
     "/ngx-starter-kit/runtime.b4446759fbd919133218.js": "bba0eb9dc6b173a7efa59dcce9b802567ed1e409",
     "/ngx-starter-kit/silent-refresh.html": "a0038c9b93baa40eaebc00486d3ee4b044a1639d",

@@ -3,25 +3,25 @@ MIT
 
 breadcrumbs
 
-scroll-to-top
-
 theme-picker
+
+scroll-to-top
 
 scrollbar
 
 notifications
 
-context-menu
+led
 
 chat-box
 
+context-menu
+
 image-comparison
 
-led
+loading-overlay
 
 app-confirm
-
-loading-overlay
 
 draggable
 
