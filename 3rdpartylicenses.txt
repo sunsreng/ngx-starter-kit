@@ -5,13 +5,13 @@ breadcrumbs
 
 scroll-to-top
 
-scrollbar
-
 theme-picker
 
-led
+scrollbar
 
 notifications
+
+led
 
 chat-box
 
