@@ -15,13 +15,13 @@ led
 
 chat-box
 
-context-menu
+app-confirm
 
 image-comparison
 
 loading-overlay
 
-app-confirm
+context-menu
 
 draggable
 
