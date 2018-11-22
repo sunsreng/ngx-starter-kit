@@ -11,17 +11,17 @@ scrollbar
 
 notifications
 
-image-comparison
+led
 
 chat-box
 
 context-menu
 
-led
-
-loading-overlay
+image-comparison
 
 app-confirm
+
+loading-overlay
 
 draggable
 
