@@ -3,11 +3,11 @@ MIT
 
 breadcrumbs
 
-scroll-to-top
+scrollbar
 
 theme-picker
 
-scrollbar
+scroll-to-top
 
 notifications
 
@@ -17,9 +17,9 @@ chat-box
 
 context-menu
 
-loading-overlay
-
 image-comparison
+
+loading-overlay
 
 app-confirm
 
