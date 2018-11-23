@@ -7,11 +7,11 @@ scroll-to-top
 
 theme-picker
 
-scrollbar
+led
 
 notifications
 
-led
+scrollbar
 
 chat-box
 
