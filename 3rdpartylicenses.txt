@@ -3,11 +3,11 @@ MIT
 
 breadcrumbs
 
-scrollbar
+scroll-to-top
 
 theme-picker
 
-scroll-to-top
+scrollbar
 
 notifications
 
