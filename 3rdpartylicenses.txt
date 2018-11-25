@@ -7,17 +7,17 @@ scroll-to-top
 
 theme-picker
 
-led
+scrollbar
 
 notifications
 
-scrollbar
+image-comparison
 
 chat-box
 
 context-menu
 
-image-comparison
+led
 
 loading-overlay
 
