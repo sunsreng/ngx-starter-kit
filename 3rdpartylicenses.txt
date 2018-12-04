@@ -11,13 +11,13 @@ scrollbar
 
 notifications
 
-led
+context-menu
 
 chat-box
 
-context-menu
-
 image-comparison
+
+led
 
 loading-overlay
 
@@ -820,6 +820,8 @@ MIT
 
 component-bind
 
+@angular/material/snack-bar
+
 socket.io-parser
 MIT
 (The MIT License)
@@ -1366,8 +1368,6 @@ tree
 
 @angular/animations
 MIT
-
-@angular/material/snack-bar
 
 @ngxs/storage-plugin
 MIT
