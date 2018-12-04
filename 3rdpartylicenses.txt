@@ -5,23 +5,23 @@ breadcrumbs
 
 scroll-to-top
 
-theme-picker
+chat-box
 
-scrollbar
+theme-picker
 
 notifications
 
-led
-
-chat-box
-
 context-menu
 
-image-comparison
+scrollbar
+
+app-confirm
+
+led
 
 loading-overlay
 
-app-confirm
+image-comparison
 
 draggable
 
