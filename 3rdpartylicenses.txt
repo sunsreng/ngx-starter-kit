@@ -1,29 +1,29 @@
 ngx-starter-kit
 MIT
 
-breadcrumbs
+@ngx-starter-kit/breadcrumbs
 
-scroll-to-top
+@ngx-starter-kit/scroll-to-top
 
-theme-picker
+@ngx-starter-kit/scrollbar
 
-scrollbar
+@ngx-starter-kit/theme-picker
 
-notifications
+@ngx-starter-kit/notifications
 
-led
+@ngx-starter-kit/led
 
-chat-box
+@ngx-starter-kit/chat-box
 
-context-menu
+@ngx-starter-kit/context-menu
 
-image-comparison
+@ngx-starter-kit/image-comparison
 
-loading-overlay
+@ngx-starter-kit/loading-overlay
 
-app-confirm
+@ngx-starter-kit/app-confirm
 
-draggable
+@ngx-starter-kit/draggable
 
 @angular/material/menu
 
@@ -387,7 +387,7 @@ SOFTWARE.
 
 @ngx-formly/material/radio
 
-ngx-utils
+@ngx-starter-kit/ngx-utils
 
 @ngx-formly/material/form-field
 
@@ -804,7 +804,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
-socketio-plugin
+@ngx-starter-kit/socketio-plugin
 
 component-inherit
 
@@ -1176,7 +1176,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 @angular/material/tooltip
 
-tree
+@ngx-starter-kit/tree
 
 @angular/animations
 MIT
@@ -1471,7 +1471,7 @@ MIT
 
 @angular/cdk/scrolling
 
-clap
+@ngx-starter-kit/clap
 
 d3
 BSD-3-Clause
@@ -2613,7 +2613,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-svg-viewer
+@ngx-starter-kit/svg-viewer
 
 @angular/material/slider
 
