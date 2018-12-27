@@ -1,29 +1,29 @@
 ngx-starter-kit
 MIT
 
-@ngx-starter-kit/breadcrumbs
-
-@ngx-starter-kit/scroll-to-top
-
 @ngx-starter-kit/scrollbar
 
-@ngx-starter-kit/theme-picker
-
-@ngx-starter-kit/notifications
-
-@ngx-starter-kit/led
-
 @ngx-starter-kit/chat-box
-
-@ngx-starter-kit/context-menu
-
-@ngx-starter-kit/image-comparison
-
-@ngx-starter-kit/loading-overlay
 
 @ngx-starter-kit/app-confirm
 
 @ngx-starter-kit/draggable
+
+@ngx-starter-kit/breadcrumbs
+
+@ngx-starter-kit/scroll-to-top
+
+@ngx-starter-kit/theme-picker
+
+@ngx-starter-kit/led
+
+@ngx-starter-kit/context-menu
+
+@ngx-starter-kit/loading-overlay
+
+@ngx-starter-kit/image-comparison
+
+@ngx-starter-kit/notifications
 
 @angular/material/menu
 
@@ -1211,9 +1211,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-
-@angular/http
-MIT
 
 core-js
 MIT
