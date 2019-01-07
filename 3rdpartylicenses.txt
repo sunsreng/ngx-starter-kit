@@ -1,9 +1,31 @@
 ngx-starter-kit
 MIT
+The MIT License (MIT)
 
-@ngx-starter-kit/scrollbar
+Copyright (c) 2018 Sumanth Chinthagunta
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 @ngx-starter-kit/chat-box
+
+@ngx-starter-kit/scrollbar
 
 @ngx-starter-kit/app-confirm
 
@@ -11,17 +33,17 @@ MIT
 
 @ngx-starter-kit/breadcrumbs
 
-@ngx-starter-kit/scroll-to-top
-
 @ngx-starter-kit/theme-picker
 
-@ngx-starter-kit/led
+@ngx-starter-kit/scroll-to-top
 
 @ngx-starter-kit/context-menu
 
-@ngx-starter-kit/loading-overlay
-
 @ngx-starter-kit/image-comparison
+
+@ngx-starter-kit/led
+
+@ngx-starter-kit/loading-overlay
 
 @ngx-starter-kit/notifications
 
@@ -414,6 +436,9 @@ MIT
 
 @angular/material/tabs
 
+@ngxs-labs/immer-adapter
+MIT
+
 immer
 MIT
 MIT License
@@ -438,9 +463,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-@ngxs-labs/immer-adapter
-MIT
 
 screenfull
 MIT
