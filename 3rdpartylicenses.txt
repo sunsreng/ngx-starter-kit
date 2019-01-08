@@ -1,5 +1,3 @@
-@ngx-starter-kit/draggable
-
 ngx-starter-kit
 MIT
 The MIT License (MIT)
@@ -30,6 +28,8 @@ SOFTWARE.
 @ngx-starter-kit/chat-box
 
 @ngx-starter-kit/app-confirm
+
+@ngx-starter-kit/draggable
 
 @ngx-starter-kit/breadcrumbs
 
