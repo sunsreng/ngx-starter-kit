@@ -23,9 +23,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-@ngx-starter-kit/chat-box
-
 @ngx-starter-kit/scrollbar
+
+@ngx-starter-kit/chat-box
 
 @ngx-starter-kit/app-confirm
 
@@ -33,17 +33,17 @@ SOFTWARE.
 
 @ngx-starter-kit/breadcrumbs
 
-@ngx-starter-kit/theme-picker
-
 @ngx-starter-kit/scroll-to-top
 
-@ngx-starter-kit/context-menu
+@ngx-starter-kit/theme-picker
 
-@ngx-starter-kit/image-comparison
+@ngx-starter-kit/context-menu
 
 @ngx-starter-kit/led
 
 @ngx-starter-kit/loading-overlay
+
+@ngx-starter-kit/image-comparison
 
 @ngx-starter-kit/notifications
 
