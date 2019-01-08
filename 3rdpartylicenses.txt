@@ -1,3 +1,5 @@
+@ngx-starter-kit/draggable
+
 ngx-starter-kit
 MIT
 The MIT License (MIT)
@@ -29,17 +31,15 @@ SOFTWARE.
 
 @ngx-starter-kit/app-confirm
 
-@ngx-starter-kit/draggable
-
 @ngx-starter-kit/breadcrumbs
 
 @ngx-starter-kit/scroll-to-top
 
 @ngx-starter-kit/theme-picker
 
-@ngx-starter-kit/context-menu
-
 @ngx-starter-kit/led
+
+@ngx-starter-kit/context-menu
 
 @ngx-starter-kit/loading-overlay
 
@@ -57,7 +57,7 @@ SOFTWARE.
 MIT
 The MIT License
 
-Copyright (c) 2018 Google LLC.
+Copyright (c) 2019 Google LLC.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -293,7 +293,7 @@ MIT
 MIT
 The MIT License
 
-Copyright (c) 2018 Google LLC.
+Copyright (c) 2019 Google LLC.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -2857,6 +2857,8 @@ third-party archives.
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+@ngx-starter-kit/utils
 
 @angular/material/expansion
 
