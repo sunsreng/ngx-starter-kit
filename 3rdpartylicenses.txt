@@ -1,3 +1,5 @@
+@ngx-starter-kit/draggable
+
 ngx-starter-kit
 MIT
 The MIT License (MIT)
@@ -29,21 +31,19 @@ SOFTWARE.
 
 @ngx-starter-kit/app-confirm
 
-@ngx-starter-kit/draggable
-
 @ngx-starter-kit/breadcrumbs
 
 @ngx-starter-kit/scroll-to-top
 
 @ngx-starter-kit/theme-picker
 
-@ngx-starter-kit/context-menu
-
-@ngx-starter-kit/image-comparison
-
 @ngx-starter-kit/led
 
+@ngx-starter-kit/context-menu
+
 @ngx-starter-kit/loading-overlay
+
+@ngx-starter-kit/image-comparison
 
 @ngx-starter-kit/notifications
 
