@@ -8,10 +8,10 @@
       "updateMode": "prefetch",
       "urls": [
         "/ngx-starter-kit/16.dc35638881cefe634110.js",
-        "/ngx-starter-kit/17.fe00c29ab6f9b1ee69ed.js",
+        "/ngx-starter-kit/17.fdd59e4afc08c6274c73.js",
         "/ngx-starter-kit/18.7edf81358ad32b1acd09.js",
-        "/ngx-starter-kit/19.ed3aa3dea0b19607b849.js",
-        "/ngx-starter-kit/2.ab0827ebaa83995fe0bb.js",
+        "/ngx-starter-kit/19.c3da27a036016dd6fd95.js",
+        "/ngx-starter-kit/2.7219ea2e3448fbfd38bc.js",
         "/ngx-starter-kit/20.242235588e7b4c30beba.js",
         "/ngx-starter-kit/21.5b1b948dc4c11dfe3cdc.js",
         "/ngx-starter-kit/22.adbee90268acb7ad5276.js",
@@ -26,9 +26,9 @@
         "/ngx-starter-kit/index.html",
         "/ngx-starter-kit/main.26b3e3c10f99d5515871.js",
         "/ngx-starter-kit/polyfills.05557bda8993246edf74.js",
-        "/ngx-starter-kit/runtime.3c1040cdff9c1196c32b.js",
+        "/ngx-starter-kit/runtime.c09fbdbc18bcc6fcb541.js",
         "/ngx-starter-kit/silent-refresh.html",
-        "/ngx-starter-kit/styles.00b14e7b0577a785db27.css"
+        "/ngx-starter-kit/styles.d65b26edf9081cf6fdb0.css"
       ],
       "patterns": [
         "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/trianglify\\/1\\.2\\.0\\/trianglify\\.min\\.js"
@@ -172,10 +172,10 @@
   ],
   "hashTable": {
     "/ngx-starter-kit/16.dc35638881cefe634110.js": "29bfac7daa935a88ae9437b519b8de55fdd16459",
-    "/ngx-starter-kit/17.fe00c29ab6f9b1ee69ed.js": "15cf94de07ab6d6d076980c3ed3bc854b59b1d61",
+    "/ngx-starter-kit/17.fdd59e4afc08c6274c73.js": "b8de8a9db2a84d29c26e9068f38e6148d8a25f23",
     "/ngx-starter-kit/18.7edf81358ad32b1acd09.js": "d8c50de1db7b063f391663fef29819d71e24e5a9",
-    "/ngx-starter-kit/19.ed3aa3dea0b19607b849.js": "232f51c74dead03124d1b20d0ca4cadc5eb06ade",
-    "/ngx-starter-kit/2.ab0827ebaa83995fe0bb.js": "cb5a5d055a3c4886e138746ccb74f87700797386",
+    "/ngx-starter-kit/19.c3da27a036016dd6fd95.js": "79aa6c8eb11f6e484d3d41aa1312fb98184fe98d",
+    "/ngx-starter-kit/2.7219ea2e3448fbfd38bc.js": "77127ae4837e9ec940a22ee982d1ee9aa1767848",
     "/ngx-starter-kit/20.242235588e7b4c30beba.js": "cb1cd1d7f737e2de6eb6d56e86b7d08a52beeca0",
     "/ngx-starter-kit/21.5b1b948dc4c11dfe3cdc.js": "623b899f66600529fff6163295057d999bb225da",
     "/ngx-starter-kit/22.adbee90268acb7ad5276.js": "14947a25f074044cb1f6c1317474997cef6f2bba",
@@ -275,12 +275,12 @@
     "/ngx-starter-kit/assets/themes/purple-green.css": "b398af816f9778869351200f10b96e785e589e11",
     "/ngx-starter-kit/common.a562d3f9c34afa7c2776.js": "f3f7ff4cc1c94ea2f729b300edfafcbc0fa0db09",
     "/ngx-starter-kit/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/ngx-starter-kit/index.html": "199d9ce309f2d08116c05976a9d4be6075422d8b",
+    "/ngx-starter-kit/index.html": "ef990e29d3af8a54165cfe411667b4ddf452fc6c",
     "/ngx-starter-kit/main.26b3e3c10f99d5515871.js": "79dca085957b3d2068a690757dbd5c7fd12fac86",
     "/ngx-starter-kit/polyfills.05557bda8993246edf74.js": "e11848da32d46e4549c18b74c72fc6b2103645ef",
-    "/ngx-starter-kit/runtime.3c1040cdff9c1196c32b.js": "963bfc824db0d8b543ce22343c408608a81746d8",
+    "/ngx-starter-kit/runtime.c09fbdbc18bcc6fcb541.js": "b175cfc3fe82bec3a51571926267766d9af20d5a",
     "/ngx-starter-kit/silent-refresh.html": "eaa115e4a3b3744cc352cbaae71d0b4cfa21e984",
-    "/ngx-starter-kit/styles.00b14e7b0577a785db27.css": "ba09e8f14cd14703eae4904808baba21975f117a"
+    "/ngx-starter-kit/styles.d65b26edf9081cf6fdb0.css": "ba09e8f14cd14703eae4904808baba21975f117a"
   },
   "navigationUrls": [
     {

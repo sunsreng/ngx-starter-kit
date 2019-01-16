@@ -37,13 +37,13 @@ SOFTWARE.
 
 @ngx-starter-kit/theme-picker
 
-@ngx-starter-kit/led
-
 @ngx-starter-kit/context-menu
 
-@ngx-starter-kit/loading-overlay
-
 @ngx-starter-kit/image-comparison
+
+@ngx-starter-kit/led
+
+@ngx-starter-kit/loading-overlay
 
 @ngx-starter-kit/notifications
 
