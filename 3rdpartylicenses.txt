@@ -1,5 +1,3 @@
-@ngx-starter-kit/draggable
-
 ngx-starter-kit
 MIT
 The MIT License (MIT)
@@ -31,19 +29,21 @@ SOFTWARE.
 
 @ngx-starter-kit/app-confirm
 
+@ngx-starter-kit/draggable
+
 @ngx-starter-kit/breadcrumbs
 
 @ngx-starter-kit/scroll-to-top
 
 @ngx-starter-kit/theme-picker
 
-@ngx-starter-kit/led
-
 @ngx-starter-kit/context-menu
 
-@ngx-starter-kit/loading-overlay
-
 @ngx-starter-kit/image-comparison
+
+@ngx-starter-kit/led
+
+@ngx-starter-kit/loading-overlay
 
 @ngx-starter-kit/notifications
 
@@ -409,6 +409,8 @@ SOFTWARE.
 
 @ngx-formly/material/radio
 
+@ngx-starter-kit/ngx-utils
+
 @ngx-formly/material/form-field
 
 @ngx-formly/material/select
@@ -419,8 +421,6 @@ MIT
 @angular/material/select
 
 @ngx-formly/material/textarea
-
-@ngx-starter-kit/ngx-utils
 
 @angular/material/radio
 
@@ -1310,9 +1310,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-
-intersection-observer
-W3C-20150513
 
 zone.js
 MIT
