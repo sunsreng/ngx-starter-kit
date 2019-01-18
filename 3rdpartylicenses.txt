@@ -37,9 +37,9 @@ SOFTWARE.
 
 @ngx-starter-kit/theme-picker
 
-@ngx-starter-kit/context-menu
-
 @ngx-starter-kit/image-comparison
+
+@ngx-starter-kit/context-menu
 
 @ngx-starter-kit/led
 
