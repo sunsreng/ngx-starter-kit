@@ -6,17 +6,6 @@ Do-it-yourself step-by-step instructions to create this project structure from s
 
 > you need following tools. versions listed here are minimal versions tested.
 
-<<<<<<< HEAD
-| Software             | Version | Optional |
-| -------------------- | ------- | -------- |
-| Node                 | v11.4.0 |          |
-| NPM                  | v6.5.0  |          |
-| Angular CLI          | v7.3.0  |          |
-| @nrwl/schematics     | v7.4.1  |          |
-| @nestjs/cli          | v5.7.1  |          |
-| semantic-release-cli | v4.1.0  |          |
-| commitizen           | v3.0.5  |          |
-=======
 | Software             | Version  | Optional |
 | -------------------- | -------- | -------- |
 | Node                 | v11.11.0 |          |
@@ -26,7 +15,6 @@ Do-it-yourself step-by-step instructions to create this project structure from s
 | @nestjs/cli          | v6.0.0   |          |
 | semantic-release-cli | v4.1.1   |          |
 | commitizen           | v3.0.7   |          |
->>>>>>> upstream/master
 
 ### Install Prerequisites
 
