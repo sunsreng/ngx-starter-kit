@@ -3,16 +3,20 @@ import { NgModule } from '@angular/core';
 import * as Hammer from 'hammerjs';
 import { HammerGestureConfig, HAMMER_GESTURE_CONFIG } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
-import { PreloadAllModules, RouterModule } from '@angular/router';
+import { RouterModule } from '@angular/router';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { QuicklinkModule, QuicklinkStrategy } from 'ngx-quicklink';
 import { CoreModule } from '@ngx-starter-kit/core';
 
 import { environment } from '@env/environment';
+<<<<<<< HEAD
 import { PreloadViewportModule, PreloadViewportStrategy, PreloadSelectedStrategy } from '@ngx-starter-kit/preload';
+=======
+>>>>>>> upstream/master
 
 export class MyHammerConfig extends HammerGestureConfig {
-  overrides = <any>{
+  overrides = {
     // override hammerjs default configuration
     pan: { direction: Hammer.DIRECTION_ALL },
     swipe: { direction: Hammer.DIRECTION_ALL },
@@ -23,7 +27,11 @@ export class MyHammerConfig extends HammerGestureConfig {
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
+<<<<<<< HEAD
     // PreloadViewportModule,
+=======
+    QuicklinkModule,
+>>>>>>> upstream/master
     RouterModule.forRoot(
       [
         { path: '', redirectTo: 'home', pathMatch: 'full' },
@@ -41,9 +49,13 @@ export class MyHammerConfig extends HammerGestureConfig {
       {
         scrollPositionRestoration: 'enabled',
         anchorScrolling: 'enabled',
+<<<<<<< HEAD
         preloadingStrategy: PreloadSelectedStrategy,
         // preloadingStrategy: PreloadViewportStrategy,
         // preloadingStrategy: PreloadAllModules,
+=======
+        preloadingStrategy: QuicklinkStrategy,
+>>>>>>> upstream/master
         paramsInheritanceStrategy: 'always',
         // enableTracing: true, // enable to debug routing during development
         // onSameUrlNavigation: 'reload'
